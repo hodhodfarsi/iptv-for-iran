@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ManotoTV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="General",Manoto TV
-https://corsondemandlivehdstreams.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-logo="" group-title="Undefined",Iran International 1080p
