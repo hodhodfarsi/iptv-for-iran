@@ -405,8 +405,6 @@ https://ncdn.telewebion.com/semnan/live/playlist.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us" tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="Entertainment",Shabakeh 7 (576p)
 https://t.northtelecom.org/Shabakeh.m3u8
-#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="General",Simaye Azadi (1080p)
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="SL1.ir" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2
