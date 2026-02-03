@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-id="ManotoTV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="General",Manoto TV
 https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
